@@ -8,9 +8,7 @@
 
 ![Tuya Desktop Weather clock - Cover](./3.docs/image/涂鸦桌面天气时钟-封面.jpg)
 
-演示视频如下：
-
-<video src="https://images.tuyacn.com/rms-static/06f755a0-95d5-11ef-9ccb-47cdb7db279b-1730192764922.mp4?tyName=%E6%B6%82%E9%B8%A6%E6%A1%8C%E9%9D%A2%E5%A4%A9%E6%B0%94%E6%97%B6%E9%92%9F4.mp4"></video>
+[点击在 bilibili 上查看演示视频](https://www.bilibili.com/video/BV1PNDsY5EDa/?spm_id_from=333.999.list.card_archive.click&vd_source=e8559f5a49990ff137c2bae949ba3a9c)
 
 ## 原理
 
